@@ -2,7 +2,7 @@
 
 Github練習用ファイル
 
-##　本文
+## 本文
 
 Github wo manabimasu
 
